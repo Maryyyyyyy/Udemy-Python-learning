@@ -32,3 +32,4 @@
 ## Day 5: Important concepts in python
 > Python 2/3 difference, Comments, statement, Terminator, Indentation
 - Python 2/3 difference: print difference; int difference; raw_input and input(); xrange and range; 
+- 
