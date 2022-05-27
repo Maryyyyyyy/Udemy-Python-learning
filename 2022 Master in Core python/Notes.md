@@ -55,3 +55,75 @@
 > Types of variables
 - Global: Variable that is declared outside of any specific block of code; 
 - local: Variable that is declared inside a specific block of code. 
+
+## Day 7: Reserved words and escape sequence
+> Escape sequence in python
+- Special characters that used for specific tasks
+- **\n**: want a new line 
+```{
+print("hello \n world")
+will output: 
+hello
+world
+```
+- with escape sequence, they will be in the same line
+- Other escape sequence: 
+![escape sequence](Picture%20from%20lecture/Escape%20sequence.png)
+- \ will display the things after. 
+> Reserved words in python
+- special words that have special meaning
+- if: make condition
+- for: run for loop
+- range: generate sequence of number
+- int: show integer type of number
+- reserved words cannot be used as variable name. 
+
+## Day 8: Data types in python part 1
+> Data types in python
+- Have to inform a complier or interpreter about data type
+- Categorized different data type in different class
+- Text-based, numbers, date, boolean. 
+
+> Mutable and immutable data type
+- **Mutable**: change or modify value of mutable data type value after creation, eg: *list, dictionary*
+- **Immutable**: cannot change or modifty after creation, eg: *int, float, decimal, bool, string, tuple and range*
+- [Mutable and immutable data type](Python%20exercise/Day%208%20Data%20types/mutable.py)
+
+> Sequence and non-sequence data type in python
+- **Sequence**: in which items are organized in well form and have their own index number, eg: list, tuple,string
+- **Non-sequence**: not arranged in well form and does not have own index number, eg: set, dictionary
+- [Sequence data type](Python%20exercise/Day%208%20Data%20types/Sequence.py)
+
+> Categories of data types in python
+- text-based data type
+- numeric data type
+- sequence data type
+- mapping data type
+- set data types
+- boolean data type
+- binary data type
+
+## Day 9: Data types in python part 2
+> Text-based data types
+- String: collection of number, alphabetic in single or double quotation
+- eg: "How are you?" 
+- without assgining to a variable, """ will be considered as a comment 
+
+> Number data types
+- int: show whole number 
+- float: fraction number, point number, e power number
+- Complex: number in the form of x+yj (x: real number, yj: imaginary part), eg 3+3i 
+- [Number data type](Python%20exercise/Day%208%20Data%20types/Number.py)
+
+> List sequence data types
+- list: sequence data type in which different data type elements may reside 
+- element inside the list have their own index number
+- **Mutable** data type 
+
+> Tuple sequence data types
+
+
+> Range sequence data types
+
+
+> String sequence data types
