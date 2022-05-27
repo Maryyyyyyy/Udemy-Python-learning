@@ -32,4 +32,26 @@
 ## Day 5: Important concepts in python
 > Python 2/3 difference, Comments, statement, Terminator, Indentation
 - Python 2/3 difference: print difference; int difference; raw_input and input(); xrange and range; 
-- 
+- In python 2, 5/2 ->2; In python 3, 5/2 ->2.5. 
+- comments in python: Single line comment (#); Multiple line comment ("""aaa""""); 
+- Program: a set of instruction that provided to computer;
+- Statement: a complete action in the program; Separate the statement using semicolon ';' on single line
+- Separator in python: semicolon. No need for separator in python, but in C++, need separator. 
+- Indentation: need proper space to keep code in specific block. 
+
+## Day 6: Variables in python
+> What is a variable? 
+- Variable can change during program execution; 
+- Variable is the identifier, you need to declare and initiate. 
+> Decalaration and initialization of variable in python
+- Decalaration: write name of variable without providing a value. 
+- Initialization: after declaration, we need to provide a value to declared variable. In python, no need for decalaration; In C++, need decalaration. 
+> What is expression? 
+- Expression: collection of operator and operand. 
+- Operator: symbol that perform an operation, like +, - ...
+- Operand: things which operation is performed 
+> Undefined variable in python
+- Variable that you did not declare or initialized. 
+> Types of variables
+- Global: Variable that is declared outside of any specific block of code; 
+- local: Variable that is declared inside a specific block of code. 
