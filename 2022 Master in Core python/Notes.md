@@ -93,6 +93,7 @@ world
 - **Sequence**: in which items are organized in well form and have their own index number, eg: list, tuple,string
 - **Non-sequence**: not arranged in well form and does not have own index number, eg: set, dictionary
 - [Sequence data type](Python%20exercise/Day%208%20Data%20types/Sequence.py)
+- Non-sequence data type cannot have duplicate data, sequence data type can have duplicate data. 
 
 > Categories of data types in python
 - text-based data type
@@ -121,9 +122,25 @@ world
 - **Mutable** data type 
 
 > Tuple sequence data types
-
+- Tuple: different type of data type may reside
+- Element inside have their own index number
+- **Immutable** data type 
 
 > Range sequence data types
-
+- range(start,stop,step): eg, range(1,11,1), generate number from 1 to 10
+- range(5): will give value start from 0-4. 
 
 > String sequence data types
+- Empty string in boolean will give FALSE 
+- Categorized in sequence data type
+```
+str="Hello"
+str[1] # will give us result 'e'
+```
+
+>Dictionary sequence data type
+- To access dictionary: 
+```
+My_data = {‘name’:’Faisal Zamir’, ‘age’:23, ’city’:’Paharpur’}
+My_data['age'] # give us access to age
+```

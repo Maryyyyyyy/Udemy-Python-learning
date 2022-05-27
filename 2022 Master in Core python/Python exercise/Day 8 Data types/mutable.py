@@ -10,3 +10,5 @@ tuple= (2,3,4,5)
 tuple[0] = 10
 # only give me error code: 'tuple' object does not support item assignment
 print(tuple)
+x=range(5)
+print(x)
