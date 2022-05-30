@@ -144,3 +144,46 @@ str[1] # will give us result 'e'
 My_data = {‘name’:’Faisal Zamir’, ‘age’:23, ’city’:’Paharpur’}
 My_data['age'] # give us access to age
 ```
+
+## Day 14 Type conversion in Python 
+> Type method to find type of data
+- Type() is used to find type of data in python
+
+> Type conversion
+- Type conversion is called type casting, can be implicit and explicit
+
+> Implicit and Explicit
+- Implicit type conversion: one data type is converted to another data type automatically when needed, eg add integer with float will always return float. 
+- Explicit type conversion: one data type is converted to another data type by user, eg:
+  ```
+    c = 43
+    print("Mary" + str(c))
+    ```
+
+## Day 16: Operator in Python
+> What is operator? 
+- Operator is the symbol which perform a operations on operand
+- For example: a+b, + is the operator, a and b are the operands
+
+## Day 17: Arithmetic operator
+- For example: +: addition; -: subtraction; /: division; *: multiplication; %: Modulus.
+- [Arithmetic example 1](python%20exercise/Day%2017%20Arithmetic%20operator/Arithmetic%20example%201.py)
+- [Arithmetic example 2](Python%20exercise/Day%2017%20Arithmetic%20operator/Arithmetic%20exercise%202.py)
+
+## Day 18: Relational operator
+- Relational operator or comparison operator: to compare two value or to find a relation between two values
+- To check equality: ==
+- To check not equality: != 
+- Greater than: >
+- Greater than or equal to: >=
+- Less than: <
+- Less than or equal to: <=
+- [Relational example 1](Python%20exercise/Day%2018%20Relational%20operator/Relational%20example%201.py)
+- [Relational example 2](Python%20exercise/Day%2018%20Relational%20operator/Relational%20example%202.py)
+
+## Day 20: Assignment operator
+- "=" is the assignment operator. It is used to assign a value to a variable
+- Compound operator: addition assignment operator: +=, a+=b is same as a = a+b; subtraction assignment operator: -=, a-=b is same as a = a-b
+- a*=b is same as a = a*b; a%=b is same as a = a%b
+- [Assignment example 1](Python%20exercise/Day%2020%20Assignment%20operator/Assignment%20exercise%201.py)
+- [Assignment example 2](Python%20exercise/Day%2020%20Assignment%20operator/Assignment%20exercise%202.py)
