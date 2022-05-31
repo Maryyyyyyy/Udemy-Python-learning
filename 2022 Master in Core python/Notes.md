@@ -220,3 +220,61 @@ My_data['age'] # give us access to age
 - [Assignment example 1](Python%20exercise/Day%2024%20Python%20operator%20precedence/Precedence%20exercise%201.py)
 - [Assignment example 2](Python%20exercise/Day%2024%20Python%20operator%20precedence/Precedence%20exercise%202.py)
 - [Assignment example 3](Python%20exercise/Day%2024%20Python%20operator%20precedence/Precedence%20exercise%203.py)
+
+## Day 27: Python exercise
+- [Problem 1](Python%20exercise/Day%2027%20exercise/Problem%201.py)
+- [Problem 2](Python%20exercise/Day%2027%20exercise/Problem%202.py)
+- [Problem 3](Python%20exercise/Day%2027%20exercise/Problem%203.py)
+- [Problem 4](Python%20exercise/Day%2027%20exercise/Problem%204.py)
+- [Problem 5](Python%20exercise/Day%2027%20exercise/Problem%205.py)
+
+## Day 28: Decision making structure in Python
+> What is decision making structure
+- The structure in which we provide a condition, on the basis of the condition, a statement or set of statement is execute. 
+- if statement
+- if...else statement
+- Nest if statement
+- if elif else statement
+> if statement
+- It takes a condition, if condition is true, then it execute a statement or set of statement
+- If condition is false, no thing to display 
+- [Problem 1](Python%20exercise/Day%2028%20If%20statement/Exercise%201)
+- [Problem 2](Python%20exercise/Day%2028%20If%20statement/Exercise%202)
+
+## Day 29: If else statement
+- If condition is false, it will run else statement to display a false like statement or set of statement
+- [Problem 1](Python%20exercise/Day%2029%20If%20else%20statement/Problem%201.py)
+- [Problem 2](Python%20exercise/Day%2029%20If%20else%20statement/Problem%202.py)
+
+## Day 30: Nested if statement
+- Nested if is if statement inside another if statement block
+  ```
+  if(condition 1):
+    if (condition 2):
+      statement or set of statement
+  ```
+- Will execute if condition 1 is true and then condition 2 is true. 
+- [Problem 1](Python%20exercise/Day%2030%20Nested%20if%20statement/Problem%201.py)
+- [Problem 2](Python%20exercise/Day%2030%20Nested%20if%20statement/Problem%202.py)
+
+## Day 31: Elif statement
+- elif is used between if and else block
+- elif is equal to else if
+- Elif is used when we have to make multiple condition after if statement
+  ```
+  if (boolean expression/condition):
+    statement
+  elif(boolean expression/condition):
+    statement
+  else:
+    statement
+  ```
+- [Problem 1](Python%20exercise/Day%2031%20Elif%20statement/Exercise%201.py)
+- [Problem 2](Python%20exercise/Day%2031%20Elif%20statement/Exercise%202.py)
+
+## Day 32: If statement practice
+- [Problem 1](Python%20exercise/Day%2032%20If%20practice/Exercise%201.py)
+- [Problem 2](Python%20exercise/Day%2032%20If%20practice/Exercise%202.py)
+- [Problem 3](Python%20exercise/Day%2032%20If%20practice/Exercise%203.py)
+- [Problem 4](Python%20exercise/Day%2032%20If%20practice/Exercise%204.py)
+- [Problem 5](Python%20exercise/Day%2032%20If%20practice/Exercise%205.py)
