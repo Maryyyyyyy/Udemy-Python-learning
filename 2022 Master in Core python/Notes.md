@@ -187,3 +187,36 @@ My_data['age'] # give us access to age
 - a*=b is same as a = a*b; a%=b is same as a = a%b
 - [Assignment example 1](Python%20exercise/Day%2020%20Assignment%20operator/Assignment%20exercise%201.py)
 - [Assignment example 2](Python%20exercise/Day%2020%20Assignment%20operator/Assignment%20exercise%202.py)
+
+## Day 21: Logic operator
+- It returns boolean value, True or False
+- and(&&) operator: return true only when every expression are true 
+- or(||) operator: if one expression is true, return true; else return false 
+- not(!) operator
+- False and false = false
+- false and true = false
+- true and false = false
+- true and true = true
+- [Assignment example 1](Python%20exercise/Day%2021%20Logical%20operator/Assignment%20example%201.py)
+- [Assignment example 2](Python%20exercise/Day%2021%20Logical%20operator/Assignment%20example%202.py)
+
+## Day 22: Membership operator
+- in: usually used in for loop, in check whether the variable or constant in a sequence. Return true if the number is in the sequence. 
+- not in: opposite of in. 
+- [Assignment example 1](Python%20exercise/Day%2022%20Membership%20operator/Membership%20operator%20exercise%201.py)
+- [Assignment example 2](Python%20exercise/Day%2022%20Membership%20operator/Membership%20operator%20exercise%202.py)
+
+## Day 23: Operator in python
+- is: to check variables on both side of operator, same object or not. 
+  ```
+  print(x is y)
+  # It will return true if x and y have same identity
+  ```
+- We can find their identities using id method: print(id(x)) that will return a number
+-[Assignment example 1](Python%20exercise/Day%2023%20operator/Operator%20exercise%201.py)
+
+## Day 24: Python operator precedence
+- PEMDAS: parentheses, exponentiation, multiplication, division, addition and subtraction. 
+- [Assignment example 1](Python%20exercise/Day%2024%20Python%20operator%20precedence/Precedence%20exercise%201.py)
+- [Assignment example 2](Python%20exercise/Day%2024%20Python%20operator%20precedence/Precedence%20exercise%202.py)
+- [Assignment example 3](Python%20exercise/Day%2024%20Python%20operator%20precedence/Precedence%20exercise%203.py)
