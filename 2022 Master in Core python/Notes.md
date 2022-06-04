@@ -278,3 +278,39 @@ My_data['age'] # give us access to age
 - [Problem 3](Python%20exercise/Day%2032%20If%20practice/Exercise%203.py)
 - [Problem 4](Python%20exercise/Day%2032%20If%20practice/Exercise%204.py)
 - [Problem 5](Python%20exercise/Day%2032%20If%20practice/Exercise%205.py)
+
+## Day 34 For loop
+- Loop: If you want to repeat any statement for specific time, or if you want to generate a number according to instruction. 
+- Python will repeat until the statement is false
+- Python include: For loop, while loop.
+- For loop: repeat a statement or set of statement up to fixed time. We can iterate over sequence for example list, tuple, dictionary, string. 
+  ```
+  for var in range(start number, stop number)
+    print(var) # It will repeat var for n times
+  
+  for variable in sequence:
+    print(variable) 
+    # Where sequence may be string, list, tuple or dictionary (key or items). 
+    ```
+- [Exercise 1](Python%20exercise/Day%2034%20For%20loop/Exercise%201.py)
+- [Exercise 2](Python%20exercise/Day%2034%20For%20loop/Exercise%202.py)
+
+## Day 35 While loop
+- While loop: is the loop which repeat a statement or set of statement as long as condition is true 
+- We use while loop inwhich we do not know about total iteration. 
+- Three component: initialization, condition, increment or decrement, loop body 
+  ```
+  While condition:
+    body of loop
+    statement
+    increment or decrement 
+  ``` 
+  ```
+  i = 0
+  while i < 10:
+    print(i)
+    i+=1
+- [Exercise 1](Python%20exercise/Day%2035%20While%20loop/Exercise%201.py)
+- [Exercise 2](Python%20exercise/Day%2035%20While%20loop/Exercise%202.py)
+
+## Day 36 Loop exercise
