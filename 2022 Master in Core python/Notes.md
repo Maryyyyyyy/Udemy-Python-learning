@@ -314,3 +314,6 @@ My_data['age'] # give us access to age
 - [Exercise 2](Python%20exercise/Day%2035%20While%20loop/Exercise%202.py)
 
 ## Day 36 Loop exercise
+- [Exercise 1](Python%20exercise/Day%2036%20Loop%20exercise/Exercise%201.py)
+- [Exercise 2](Python%20exercise/Day%2036%20Loop%20exercise/Exercise%202.py)
+- [Exercise 3](Python%20exercise/Day%2036%20Loop%20exercise/Exercise%203.py)
